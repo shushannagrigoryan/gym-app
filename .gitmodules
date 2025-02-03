@@ -1,0 +1,9 @@
+[submodule "TrainerWorkloadService"]
+	path = TrainerWorkloadService
+	url = https://github.com/shushannagrigoryan/TrainerWorkloadService.git
+[submodule "spring-gym-app"]
+	path = spring-gym-app
+	url = https://github.com/shushannagrigoryan/spring-gym-app.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/shushannagrigoryan/eureka-server.git
